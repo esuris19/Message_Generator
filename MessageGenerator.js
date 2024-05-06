@@ -15,4 +15,4 @@ function generateRandomMessage() {
 }
 
 console.log(generateRandomMessage());
-
+console.log('Ask as many times as you will');
